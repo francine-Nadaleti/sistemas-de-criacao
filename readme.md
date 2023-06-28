@@ -1,4 +1,4 @@
-# Sistema de criação de jogos
+# Sistema de cadastro
 
 >Status do projeto: em andamento
 
